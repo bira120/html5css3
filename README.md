@@ -1,1 +1,7 @@
-# html5css3
+# HTML5 e css3 
+
+Site moderno e responsivo.
+
+## links indicados 
+
+### planejamento 
